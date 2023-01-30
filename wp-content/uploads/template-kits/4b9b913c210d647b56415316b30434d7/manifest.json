@@ -1,0 +1,1709 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Lucius - Personal Portfolio Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kit.juliha.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kit.juliha.com\/lucius\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kit.juliha.com\/lucius\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kit.juliha.com\/lucius\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/kit.juliha.com\/lucius\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/kit.juliha.com\/lucius\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Portfolio",
+            "screenshot": "screenshots\/portfolio.jpg",
+            "source": "templates\/portfolio.json",
+            "preview_url": "https:\/\/kit.juliha.com\/lucius\/template-kit\/portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Portfolio",
+            "screenshot": "screenshots\/single-portfolio.jpg",
+            "source": "templates\/single-portfolio.json",
+            "preview_url": "https:\/\/kit.juliha.com\/lucius\/template-kit\/single-portfolio\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Partner",
+            "screenshot": "screenshots\/partner.jpg",
+            "source": "templates\/partner.json",
+            "preview_url": "https:\/\/kit.juliha.com\/lucius\/template-kit\/partner\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/kit.juliha.com\/lucius\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Coming Soon",
+            "screenshot": "screenshots\/coming-soon.jpg",
+            "source": "templates\/coming-soon.json",
+            "preview_url": "https:\/\/kit.juliha.com\/lucius\/template-kit\/coming-soon\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog & News",
+            "screenshot": "screenshots\/blog-news.jpg",
+            "source": "templates\/blog-news.json",
+            "preview_url": "https:\/\/kit.juliha.com\/lucius\/template-kit\/blog-news\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/kit.juliha.com\/lucius\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/kit.juliha.com\/lucius\/template-kit\/single-post\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.1.4",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor - Header, Footer & Blocks",
+            "version": "1.5.9",
+            "file": "header-footer-elementor\/header-footer-elementor.php",
+            "author": "Brainstorm Force, Nikhil Chavan"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.2.4",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Envato Elements",
+            "version": "2.0.8",
+            "file": "envato-elements\/envato-elements.php",
+            "author": "Envato"
+        },
+        {
+            "name": "WPForms Lite",
+            "version": "1.6.7",
+            "file": "wpforms-lite\/wpforms.php",
+            "author": "WPForms"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "1.8.3",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "JegStudio"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Asset-1.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/Asset-1-800x175.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/blog-news.json",
+                    "name": "Blog & News"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 15135,
+            "dimensions": [
+                1746,
+                383
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "yao-hu-egD9E7mqlxQ-unsplash.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/yao-hu-egD9E7mqlxQ-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 196812,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/egD9E7mqlxQ"
+        },
+        {
+            "filename": "solen-feyissa-nok9Y_MjnwA-unsplash.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/solen-feyissa-nok9Y_MjnwA-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 229822,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/nok9Y_MjnwA"
+        },
+        {
+            "filename": "aniketh-kanukurthi-ePnVXoxmxbY-unsplash.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/aniketh-kanukurthi-ePnVXoxmxbY-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 253034,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/ePnVXoxmxbY"
+        },
+        {
+            "filename": "sir-manuel-VLVDokxeelg-unsplash.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/sir-manuel-VLVDokxeelg-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 285656,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/VLVDokxeelg"
+        },
+        {
+            "filename": "pham-duy-chuong-tfoooXitLlY-unsplash.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/pham-duy-chuong-tfoooXitLlY-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 209788,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/tfoooXitLlY"
+        },
+        {
+            "filename": "hometab_Artboard-1_2.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/hometab_Artboard-1_2-800x944.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 30346,
+            "dimensions": [
+                1780,
+                2100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "homemobile_Artboard-1_2.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/homemobile_Artboard-1_2-800x1374.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 30574,
+            "dimensions": [
+                1223,
+                2100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "ricardo-gomez-angel-Jt4ABNbETW4-unsplash.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/ricardo-gomez-angel-Jt4ABNbETW4-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 280227,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/Jt4ABNbETW4"
+        },
+        {
+            "filename": "michelle-gerlach-z5bFVs4rd_g-unsplash.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/michelle-gerlach-z5bFVs4rd_g-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 208716,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/z5bFVs4rd_g"
+        },
+        {
+            "filename": "home_Artboard-2_7.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/home_Artboard-2_7-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 45498,
+            "dimensions": [
+                2401,
+                2401
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home_Artboard-2_8.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/home_Artboard-2_8-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 44276,
+            "dimensions": [
+                2401,
+                2401
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "home_Artboard-1_10.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/home_Artboard-1_10-800x1750.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 27708,
+            "dimensions": [
+                960,
+                2100
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "close-up-portrait-of-bearded-man-ZXVFWLU-1.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/close-up-portrait-of-bearded-man-ZXVFWLU-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 281676,
+            "dimensions": [
+                800,
+                891
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZXVFWLU"
+        },
+        {
+            "filename": "pascal-m-4PchFKrUw84-unsplash.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/pascal-m-4PchFKrUw84-unsplash-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 142494,
+            "dimensions": [
+                2400,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/4PchFKrUw84"
+        },
+        {
+            "filename": "aesop-wines-ctjdhIAzAdM-unsplash.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/aesop-wines-ctjdhIAzAdM-unsplash-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 167948,
+            "dimensions": [
+                2400,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/ctjdhIAzAdM"
+        },
+        {
+            "filename": "reinhart-julian-bKdOqbLRnnA-unsplash.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/reinhart-julian-bKdOqbLRnnA-unsplash-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 233459,
+            "dimensions": [
+                2400,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/bKdOqbLRnnA"
+        },
+        {
+            "filename": "totte-annerbrink-NehdOHCXsjs-unsplash.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/totte-annerbrink-NehdOHCXsjs-unsplash-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 82720,
+            "dimensions": [
+                2400,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/NehdOHCXsjs"
+        },
+        {
+            "filename": "elsa-olofsson-e81dyWxCHWY-unsplash.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/elsa-olofsson-e81dyWxCHWY-unsplash-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 269766,
+            "dimensions": [
+                2400,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/e81dyWxCHWY"
+        },
+        {
+            "filename": "mikkel-bech-yjAFnkLtKY0-unsplash.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/mikkel-bech-yjAFnkLtKY0-unsplash-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 193777,
+            "dimensions": [
+                2400,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/yjAFnkLtKY0"
+        },
+        {
+            "filename": "ionut-vlad-ek84cy5NvfM-unsplash.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/ionut-vlad-ek84cy5NvfM-unsplash-800x400.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 250822,
+            "dimensions": [
+                2400,
+                1200
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/ek84cy5NvfM"
+        },
+        {
+            "filename": "portrait-of-bearded-male-with-long-hair-Y23XKF3.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/portrait-of-bearded-male-with-long-hair-Y23XKF3-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 224415,
+            "dimensions": [
+                1200,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Y23XKF3"
+        },
+        {
+            "filename": "portrait-6QAEG3M.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/portrait-6QAEG3M-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 289065,
+            "dimensions": [
+                1000,
+                1000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6QAEG3M"
+        },
+        {
+            "filename": "portrait-Q9UPKDK.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/portrait-Q9UPKDK-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 210682,
+            "dimensions": [
+                2000,
+                2000
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-Q9UPKDK"
+        },
+        {
+            "filename": "portrait-BRDDVGM.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/portrait-BRDDVGM-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 92136,
+            "dimensions": [
+                1416,
+                1416
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-BRDDVGM"
+        },
+        {
+            "filename": "logoclient_Artboard-6_2.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/logoclient_Artboard-6_2-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 29210,
+            "dimensions": [
+                2000,
+                1200
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logoclient_Artboard-5_2.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/logoclient_Artboard-5_2-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 28380,
+            "dimensions": [
+                2000,
+                1200
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logoclient_Artboard-4_2.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/logoclient_Artboard-4_2-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 29756,
+            "dimensions": [
+                2000,
+                1200
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logoclient_Artboard-3_2.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/logoclient_Artboard-3_2-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 23809,
+            "dimensions": [
+                2000,
+                1200
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logoclient_Artboard-2_2.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/logoclient_Artboard-2_2-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 28247,
+            "dimensions": [
+                2000,
+                1200
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "logoclient_Artboard-1_2.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/logoclient_Artboard-1_2-800x480.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 33083,
+            "dimensions": [
+                2000,
+                1200
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "ceyda-ciftci-lJH1dKatFhk-unsplash.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/ceyda-ciftci-lJH1dKatFhk-unsplash-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 257721,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/lJH1dKatFhk"
+        },
+        {
+            "filename": "african-american-man-wearing-white-sweater-mockup-HHQZZPT.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/african-american-man-wearing-white-sweater-mockup-HHQZZPT-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 129481,
+            "dimensions": [
+                1200,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HHQZZPT"
+        },
+        {
+            "filename": "african-american-man-wearing-white-sweater-mockup-HHQZZPT-3.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/african-american-man-wearing-white-sweater-mockup-HHQZZPT-3-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 112002,
+            "dimensions": [
+                1200,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-HHQZZPT"
+        },
+        {
+            "filename": "cute-girl-young-woman-white-tender-blonde-pajamas-NF69S4C.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/cute-girl-young-woman-white-tender-blonde-pajamas-NF69S4C-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 147267,
+            "dimensions": [
+                1200,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NF69S4C"
+        },
+        {
+            "filename": "cute-girl-young-woman-white-tender-blonde-pajamas-NF69S4C-3.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/cute-girl-young-woman-white-tender-blonde-pajamas-NF69S4C-3-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 117132,
+            "dimensions": [
+                1200,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-NF69S4C"
+        },
+        {
+            "filename": "portrait-P8EQC87.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/portrait-P8EQC87-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 193954,
+            "dimensions": [
+                1200,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P8EQC87"
+        },
+        {
+            "filename": "portrait-P8EQC87-2.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/portrait-P8EQC87-2-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 136164,
+            "dimensions": [
+                1200,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-P8EQC87"
+        },
+        {
+            "filename": "pursuit-retro-IrcrVGniehg-unsplash.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/pursuit-retro-IrcrVGniehg-unsplash-800x379.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                }
+            ],
+            "filesize": 247605,
+            "dimensions": [
+                2400,
+                1136
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/IrcrVGniehg"
+        },
+        {
+            "filename": "severin-candrian-CD4NPRRalgA-unsplash.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/severin-candrian-CD4NPRRalgA-unsplash-800x504.jpg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 241598,
+            "dimensions": [
+                2400,
+                1513
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/CD4NPRRalgA"
+        },
+        {
+            "filename": "pascal-m-4PchFKrUw84-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/pascal-m-4PchFKrUw84-unsplash-800x1067.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 116060,
+            "dimensions": [
+                1500,
+                2000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/4PchFKrUw84"
+        },
+        {
+            "filename": "reinhart-julian-bKdOqbLRnnA-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/reinhart-julian-bKdOqbLRnnA-unsplash-800x1067.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 226768,
+            "dimensions": [
+                1500,
+                2000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/bKdOqbLRnnA"
+        },
+        {
+            "filename": "adam-birkett-QRWAdBCqysc-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/adam-birkett-QRWAdBCqysc-unsplash-800x1067.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 163138,
+            "dimensions": [
+                1500,
+                2000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/QRWAdBCqysc"
+        },
+        {
+            "filename": "elsa-olofsson-e81dyWxCHWY-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/elsa-olofsson-e81dyWxCHWY-unsplash-800x1067.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 198568,
+            "dimensions": [
+                1500,
+                2000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/e81dyWxCHWY"
+        },
+        {
+            "filename": "totte-annerbrink-NehdOHCXsjs-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/totte-annerbrink-NehdOHCXsjs-unsplash-800x1067.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 139041,
+            "dimensions": [
+                1500,
+                2000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/NehdOHCXsjs"
+        },
+        {
+            "filename": "mikkel-bech-yjAFnkLtKY0-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/mikkel-bech-yjAFnkLtKY0-unsplash-800x1067.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 166611,
+            "dimensions": [
+                1500,
+                2000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/yjAFnkLtKY0"
+        },
+        {
+            "filename": "fadel-atthoriq-xP9U1Gbe-2A-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/fadel-atthoriq-xP9U1Gbe-2A-unsplash-800x1067.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 130458,
+            "dimensions": [
+                1500,
+                2000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/xP9U1Gbe"
+        },
+        {
+            "filename": "aesop-wines-fSHQA9K6Ki4-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/aesop-wines-fSHQA9K6Ki4-unsplash-800x1067.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/portfolio.json",
+                    "name": "Portfolio"
+                }
+            ],
+            "filesize": 223375,
+            "dimensions": [
+                1500,
+                2000
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/fSHQA9K6Ki4"
+        },
+        {
+            "filename": "jascent-leung-EVL1nwmdg_g-unsplash.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/jascent-leung-EVL1nwmdg_g-unsplash-800x321.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-portfolio.json",
+                    "name": "Single Portfolio"
+                }
+            ],
+            "filesize": 129761,
+            "dimensions": [
+                2400,
+                964
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/EVL1nwmdg_g"
+        },
+        {
+            "filename": "business-partners-shaking-hands-AP3R3MX.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/business-partners-shaking-hands-AP3R3MX-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 230569,
+            "dimensions": [
+                2400,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-AP3R3MX"
+        },
+        {
+            "filename": "dark-haired-guy-in-a-multi-colored-striped-shirt-i-ZBKHRQ3.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/dark-haired-guy-in-a-multi-colored-striped-shirt-i-ZBKHRQ3-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 188511,
+            "dimensions": [
+                1200,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZBKHRQ3"
+        },
+        {
+            "filename": "dark-haired-guy-in-a-multi-colored-striped-shirt-i-ZBKHRQ3-3.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/dark-haired-guy-in-a-multi-colored-striped-shirt-i-ZBKHRQ3-3-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 103350,
+            "dimensions": [
+                1200,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZBKHRQ3"
+        },
+        {
+            "filename": "portrait-WMSDL6U.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/portrait-WMSDL6U-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 206413,
+            "dimensions": [
+                1200,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-WMSDL6U"
+        },
+        {
+            "filename": "portrait-WMSDL6U-2.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/portrait-WMSDL6U-2-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 117676,
+            "dimensions": [
+                1200,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-WMSDL6U"
+        },
+        {
+            "filename": "portrait-HM9LPFL.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/portrait-HM9LPFL-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 146581,
+            "dimensions": [
+                1200,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HM9LPFL"
+        },
+        {
+            "filename": "portrait-HM9LPFL-2.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/portrait-HM9LPFL-2-800x1067.jpg",
+            "templates": [
+                {
+                    "source": "templates\/partner.json",
+                    "name": "Partner"
+                }
+            ],
+            "filesize": 126475,
+            "dimensions": [
+                1200,
+                1600
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-HM9LPFL"
+        },
+        {
+            "filename": "coming_Artboard-4_6.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/coming_Artboard-4_6-800x273.png",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 24488,
+            "dimensions": [
+                2400,
+                818
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "coming_Artboard-4_5.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/coming_Artboard-4_5-800x273.png",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 25514,
+            "dimensions": [
+                2400,
+                818
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "coming_Artboard-4-copy_7.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/coming_Artboard-4-copy_7-800x980.png",
+            "templates": [
+                {
+                    "source": "templates\/coming-soon.json",
+                    "name": "Coming Soon"
+                }
+            ],
+            "filesize": 30178,
+            "dimensions": [
+                1336,
+                1636
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "woman-type-on-the-computer-BNJTRPP.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/woman-type-on-the-computer-BNJTRPP-800x422.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog-news.json",
+                    "name": "Blog & News"
+                }
+            ],
+            "filesize": 257392,
+            "dimensions": [
+                2400,
+                1266
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-BNJTRPP"
+        },
+        {
+            "filename": "portrait-of-positive-young-guy-in-t-shirt-looking-GKPQ7BL.jpg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/portrait-of-positive-young-guy-in-t-shirt-looking-GKPQ7BL-800x800.jpg",
+            "templates": [
+                {
+                    "source": "templates\/blog-news.json",
+                    "name": "Blog & News"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 159583,
+            "dimensions": [
+                1500,
+                1500
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GKPQ7BL"
+        },
+        {
+            "filename": "aesop-wines-2b0kMURHmPg-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/aesop-wines-2b0kMURHmPg-unsplash-800x800.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/blog-news.json",
+                    "name": "Blog & News"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 105219,
+            "dimensions": [
+                1500,
+                1500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/2b0kMURHmPg"
+        },
+        {
+            "filename": "felipe-vieira-uzPB61s3LSg-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/felipe-vieira-uzPB61s3LSg-unsplash-800x800.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/blog-news.json",
+                    "name": "Blog & News"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 129368,
+            "dimensions": [
+                1500,
+                1500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/uzPB61s3LSg"
+        },
+        {
+            "filename": "christin-hume-0MoF-Fe0w0A-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/christin-hume-0MoF-Fe0w0A-unsplash-800x800.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/blog-news.json",
+                    "name": "Blog & News"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 89593,
+            "dimensions": [
+                1500,
+                1500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/0MoF-Fe0w0A"
+        },
+        {
+            "filename": "aesop-wines-kjgPdiw-_Nk-unsplash.jpeg",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/aesop-wines-kjgPdiw-_Nk-unsplash-800x800.jpeg",
+            "templates": [
+                {
+                    "source": "templates\/blog-news.json",
+                    "name": "Blog & News"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 149605,
+            "dimensions": [
+                1500,
+                1500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/unsplash.com\/photos\/kjgPdiw-_Nk"
+        },
+        {
+            "filename": "404_Artboard-3_2.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/404_Artboard-3_2-800x894.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 18229,
+            "dimensions": [
+                1431,
+                1600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "404_Artboard-3_4.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/404_Artboard-3_4-800x894.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 18318,
+            "dimensions": [
+                1431,
+                1600
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "404_Artboard-4.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/404_Artboard-4.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 21402,
+            "dimensions": [
+                748,
+                328
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "404_Artboard-6.png",
+            "thumbnail_url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/404_Artboard-6-800x374.png",
+            "templates": [
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 24168,
+            "dimensions": [
+                1153,
+                539
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

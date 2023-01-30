@@ -1,0 +1,567 @@
+{
+    "version": "0.4",
+    "title": "Portfolio",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "65ab781d",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 1350,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "200",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "130",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "20",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "16f0ef43",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "background_background": "classic",
+                        "background_image": {
+                            "url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/severin-candrian-CD4NPRRalgA-unsplash.jpg",
+                            "id": 1077
+                        },
+                        "background_position": "center center",
+                        "background_size": "cover",
+                        "background_overlay_background": "classic",
+                        "background_overlay_opacity": {
+                            "unit": "px",
+                            "size": 0.6,
+                            "sizes": []
+                        },
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "20",
+                            "bottom": "0",
+                            "left": "20",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "20",
+                            "bottom": "0",
+                            "left": "20",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "150",
+                            "right": "0",
+                            "bottom": "150",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "100",
+                            "right": "0",
+                            "bottom": "100",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "__globals__": {
+                            "background_overlay_color": "globals\/colors?id=secondary"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "59b8a47d",
+                            "settings": {
+                                "title": "My Portfolio",
+                                "align": "center",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "4496850d",
+            "settings": {
+                "content_width": {
+                    "unit": "px",
+                    "size": 1350,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "100",
+                    "right": "0",
+                    "bottom": "100",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "margin_mobile": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_mobile": {
+                    "unit": "px",
+                    "top": "50",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "7c27de67",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "content_position": "center",
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_inline_size_tablet": 100,
+                        "margin_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "50",
+                            "left": "10",
+                            "isLinked": false
+                        },
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "10",
+                            "bottom": "50",
+                            "left": "10",
+                            "isLinked": false
+                        },
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "132344a0",
+                            "settings": {
+                                "sg_setting_item_show": {
+                                    "unit": "px",
+                                    "size": 4,
+                                    "sizes": []
+                                },
+                                "sg_setting_column_responsive": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "sg_setting_grid": "masonry",
+                                "sg_setting_link_to": "none",
+                                "sg_filter_all_label": "All",
+                                "sg_filter_list": [
+                                    {
+                                        "sg_filter_list_name": "Gallery Item",
+                                        "_id": "c772bed"
+                                    }
+                                ],
+                                "sg_gallery_image_size_imagesize_size": "2048x2048",
+                                "sg_gallery_list": [
+                                    {
+                                        "sg_gallery_list_image": {
+                                            "url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/pascal-m-4PchFKrUw84-unsplash.jpeg",
+                                            "id": 577
+                                        },
+                                        "_id": "9f399dd",
+                                        "sg_gallery_list_item_name": "Product Photography",
+                                        "sg_gallery_list_content": "<p>Photography<\/p>"
+                                    },
+                                    {
+                                        "sg_gallery_list_image": {
+                                            "url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/reinhart-julian-bKdOqbLRnnA-unsplash.jpeg",
+                                            "id": 578
+                                        },
+                                        "_id": "06b2d0b",
+                                        "sg_gallery_list_item_name": "Product Branding",
+                                        "sg_gallery_list_content": "<p>Branding<\/p>"
+                                    },
+                                    {
+                                        "sg_gallery_list_image": {
+                                            "url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/adam-birkett-QRWAdBCqysc-unsplash.jpeg",
+                                            "id": 570
+                                        },
+                                        "_id": "57a1f59",
+                                        "sg_gallery_list_item_name": "UI Design",
+                                        "sg_gallery_list_content": "<p>Product UI<\/p>"
+                                    },
+                                    {
+                                        "sg_gallery_list_image": {
+                                            "url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/elsa-olofsson-e81dyWxCHWY-unsplash.jpeg",
+                                            "id": 574
+                                        },
+                                        "_id": "a874f7f",
+                                        "sg_gallery_list_item_name": "Packaging",
+                                        "sg_gallery_list_content": "<p>Product<\/p>"
+                                    },
+                                    {
+                                        "sg_gallery_list_image": {
+                                            "url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/totte-annerbrink-NehdOHCXsjs-unsplash.jpeg",
+                                            "id": 579
+                                        },
+                                        "_id": "a9f346a",
+                                        "sg_gallery_list_item_name": "Product Branding",
+                                        "sg_gallery_list_content": "<p>Branding<\/p>"
+                                    },
+                                    {
+                                        "_id": "1b95c9d",
+                                        "sg_gallery_list_item_name": "Photography",
+                                        "sg_gallery_list_content": "<p>Product<\/p>",
+                                        "sg_gallery_list_image": {
+                                            "url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/mikkel-bech-yjAFnkLtKY0-unsplash.jpeg",
+                                            "id": 576
+                                        }
+                                    },
+                                    {
+                                        "_id": "ba73296",
+                                        "sg_gallery_list_item_name": "Product Packaging",
+                                        "sg_gallery_list_content": "<p>Packaging<\/p>",
+                                        "sg_gallery_list_image": {
+                                            "url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/fadel-atthoriq-xP9U1Gbe-2A-unsplash.jpeg",
+                                            "id": 575
+                                        }
+                                    },
+                                    {
+                                        "_id": "21ab702",
+                                        "sg_gallery_list_item_name": "Branding",
+                                        "sg_gallery_list_content": "<p>Product<\/p>",
+                                        "sg_gallery_list_image": {
+                                            "url": "https:\/\/kit.juliha.com\/lucius\/wp-content\/uploads\/sites\/13\/2021\/05\/aesop-wines-fSHQA9K6Ki4-unsplash.jpeg",
+                                            "id": 572
+                                        }
+                                    }
+                                ],
+                                "sg_loadmore_enable": "yes",
+                                "sg_loadmore_item_show": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                },
+                                "sg_loadmore_button_text": "Load More",
+                                "sg_loadmore_nomore_text": "No More Item",
+                                "sg_loadmore_button_icon": {
+                                    "value": "icon icon-chevron-right",
+                                    "library": "ekiticons"
+                                },
+                                "sg_loadmore_icon_position": "after",
+                                "st_container_background_background_background": "classic",
+                                "st_container_background_background_color": "#02010100",
+                                "st_control_typography_content_typography_typography": "custom",
+                                "st_control_typography_content_typography_font_family": "Hind Siliguri",
+                                "st_control_typography_content_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "st_control_typography_content_typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "st_control_typography_content_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "st_control_typography_content_typography_font_weight": "600",
+                                "st_control_normal_color_responsive": "#02010100",
+                                "st_control_normal_background_background_background": "classic",
+                                "st_control_normal_background_background_color": "#02010100",
+                                "st_control_active_color_responsive": "#02010100",
+                                "st_control_active_background_background_background": "classic",
+                                "st_control_active_background_background_color": "#02010100",
+                                "st_item_background_background_background": "classic",
+                                "st_item_background_background_color": "#050505BF",
+                                "st_item_hover_background_background_background": "classic",
+                                "st_item_hover_background_background_color": "#05050554",
+                                "st_item_card_background_background_background": "classic",
+                                "st_item_card_background_background_color": "#02010100",
+                                "st_loadmore_margin_top_responsive": {
+                                    "unit": "px",
+                                    "size": 100,
+                                    "sizes": []
+                                },
+                                "st_loadmore_normal_background_background_background": "classic",
+                                "st_loadmore_normal_background_background_color": "#02010100",
+                                "st_loadmore_normal_color_responsive": "#FFFFFF",
+                                "st_loadmore_normal_border_border_border": "solid",
+                                "st_loadmore_normal_border_border_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "1",
+                                    "isLinked": false
+                                },
+                                "st_loadmore_normal_border_border_color": "#FFFFFF00",
+                                "st_loadmore_normal_typography_content_typography_typography": "custom",
+                                "st_loadmore_normal_typography_content_typography_font_family": "Hind Siliguri",
+                                "st_loadmore_normal_typography_content_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "st_loadmore_normal_typography_content_typography_font_size_tablet": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "st_loadmore_normal_typography_content_typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 15,
+                                    "sizes": []
+                                },
+                                "st_loadmore_normal_typography_content_typography_font_weight": "600",
+                                "st_loadmore_normal_icon_size_responsive": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "st_loadmore_normal_icon_spacing_responsive": {
+                                    "unit": "px",
+                                    "size": 5,
+                                    "sizes": []
+                                },
+                                "st_loadmore_normal_padding_responsive": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "20",
+                                    "isLinked": false
+                                },
+                                "st_loadmore_hover_border_border_border": "solid",
+                                "st_loadmore_hover_border_border_width": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "1",
+                                    "isLinked": false
+                                },
+                                "st_loadmore_hover_border_border_color": "#FFFFFF",
+                                "st_search_form_placeholder": "Search Gallery Item...",
+                                "__globals__": {
+                                    "st_loadmore_normal_color_responsive": "globals\/colors?id=primary",
+                                    "st_loadmore_normal_border_border_color": "",
+                                    "st_loadmore_normal_typography_content_typography_typography": "globals\/typography?id=accent",
+                                    "st_loadmore_hover_border_border_color": "globals\/colors?id=primary",
+                                    "st_control_typography_content_typography_typography": "globals\/typography?id=accent",
+                                    "st_item_hover_background_background_color": "",
+                                    "st_item_background_background_color": "",
+                                    "st_item_title_typography_color_responsive": "globals\/colors?id=primary",
+                                    "st_item_content_typography_color_responsive": "globals\/colors?id=primary",
+                                    "st_item_title_typography_typography_content_typography_typography": "globals\/typography?id=6c6d073",
+                                    "st_item_content_typography_typography_content_typography_typography": "globals\/typography?id=text",
+                                    "st_item_card_title_color_responsive": "globals\/colors?id=primary",
+                                    "st_item_card_title_typography_content_typography_typography": "globals\/typography?id=6c6d073",
+                                    "st_item_card_content_color_responsive": "globals\/colors?id=text",
+                                    "st_item_card_content_typography_content_typography_typography": "globals\/typography?id=text",
+                                    "st_price_rating_price_typography_content_typography_typography": "globals\/typography?id=text",
+                                    "st_price_rating_rating_typography_content_typography_typography": "globals\/typography?id=text",
+                                    "st_category_typography_content_typography_typography": "globals\/typography?id=d2b854a",
+                                    "st_item_hover_border_border_color": "globals\/colors?id=primary",
+                                    "st_item_border_border_color": "globals\/colors?id=fb9a9fe"
+                                },
+                                "st_item_margin_responsive": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "10",
+                                    "bottom": "0",
+                                    "left": "10",
+                                    "isLinked": false
+                                },
+                                "sg_setting_hover": "slide",
+                                "st_container_padding_responsive": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "st_container_margin_responsive": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "st_control_padding_responsive": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "st_control_margin_responsive": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "st_item_padding_responsive": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "10",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "st_item_border_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "st_item_hover_opacity_responsive": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                },
+                                "st_item_hover_border_border_width": {
+                                    "unit": "px",
+                                    "top": "1",
+                                    "right": "1",
+                                    "bottom": "1",
+                                    "left": "1",
+                                    "isLinked": true
+                                },
+                                "sg_setting_column_responsive_tablet": {
+                                    "unit": "px",
+                                    "size": 2,
+                                    "sizes": []
+                                },
+                                "st_item_padding_responsive_tablet": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "0",
+                                    "bottom": "10",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "st_loadmore_margin_top_responsive_tablet": {
+                                    "unit": "px",
+                                    "size": 40,
+                                    "sizes": []
+                                },
+                                "sg_setting_column_responsive_mobile": {
+                                    "unit": "px",
+                                    "size": 1,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "jkit_gallery",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ],
+    "page_settings": {
+        "hide_title": "yes",
+        "background_background": "classic",
+        "__globals__": {
+            "background_color": "globals\/colors?id=secondary"
+        },
+        "template": "elementor_canvas"
+    }
+}
